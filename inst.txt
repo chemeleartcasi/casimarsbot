@@ -1,0 +1,21 @@
+package.json
+remove test with comma
+node app.js
+save
+
+ cmd:
+git add .
+git commit -m "initial commit"
+
+portal.azure.com
+-new +
+-web+app
+-mobile app
+
+Bot App ID
+a328001a-da44-42fe-8f2a-892770b46f84
+Bot App Password
+Ue7PjqsAHyRj6deyEHDSpNo
+
+botframework secret keys
+uafVmehNi5Y.cwA.-VQ.FOCl36Rzhmxt1ioioWkBzYx_pqyRt9xyrlUe1FVbkXQ
